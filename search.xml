@@ -1,27 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/06/22/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Seek Wealth, Not Money or Status</title>
     <url>/2020/06/22/seek-wealth/</url>
-    <content><![CDATA[<p>Naval是Uber和twitter的天使投资人，也被称为投资思想家。这篇文章根据其一系列推文整理而来。记录备忘、分享。网络上的翻译比较多，中文部分是我的理解和解释。</p>
+    <content><![CDATA[<p>Naval是Uber和twitter的天使投资人，也被称为投资思想家。这篇文章根据其一系列推文整理而来。内容很干货，故记录、备忘、分享。网络上的翻译比较多，中文部分是我的理解和解释。</p>
+<a id="more"></a>
+<p>先放一个整体图：</p>
+<p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5p3kzal5j30u00u0gsa.jpg" alt=""></p>
 <h1 id="Wealth-And-Money"><a href="#Wealth-And-Money" class="headerlink" title="Wealth And Money"></a>Wealth And Money</h1><p>1.Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.</p>
 <blockquote>
 <p>财富和金钱是两个概念。财富：是一种资产、或者是状态。金钱，则是转移时间、物品的一种手段。当然同时，<br>金钱也是一种生产资料。</p>
@@ -30,8 +15,6 @@
 <blockquote>
 <p>通过正当手段获取财富是有可能的。</p>
 </blockquote>
-<a id="more"></a>
-
 <h1 id="Financial-Freedom-·-Time-·Business-·-Team"><a href="#Financial-Freedom-·-Time-·Business-·-Team" class="headerlink" title="Financial Freedom · Time ·Business · Team"></a>Financial Freedom · Time ·Business · Team</h1><p>3.Ignore people playing status games. They gain status by attacking people playing wealth creation games.</p>
 <p>4.You’re not going to get rich renting out your time. You must own equity — a piece of a business — to gain your financial freedom.</p>
 <blockquote>
@@ -168,8 +151,78 @@
 <p> 把你自己当做一个产品来打造。</p>
 </blockquote>
 ]]></content>
+      <categories>
+        <category>思维方式</category>
+      </categories>
       <tags>
         <tag>Thinking</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>信贷 货币 房价</title>
+    <url>/2020/06/26/%E4%BF%A1%E8%B4%B7%E3%80%81%E8%B4%A7%E5%B8%81%E3%80%81%E6%88%BF%E4%BB%B7/</url>
+    <content><![CDATA[<h1 id="1-前言"><a href="#1-前言" class="headerlink" title="1.前言"></a>1.前言</h1><p>近期也和朋友讨论深圳房价，对于房价的思考整理，近期系统看了资料做了简单整理分享如下：<br>先说结论：我对中国的房地产市场是持续保持乐观的。<br>这种乐观并不是来源于我持有多少套房产，而是基于全局视角思考得出的结论。分析房地产对于这个国家的意义，对现行经济体的意义，再晋升评估判断各方关系，可以得出大概框架。</p>
+<a id="more"></a>
+<p><strong>今天从货币发行的角度来简单梳理房地产对于现行经济体的意义。</strong><br>本文的结构：<br>1，先解释货币发行机制。<br>2，房地产和货币发行的关系。<br>3，结论：为什么对房地产保持乐观。</p>
+<h1 id="2-货币发行"><a href="#2-货币发行" class="headerlink" title="2.货币发行"></a>2.货币发行</h1><h2 id="2-1货币投放机制"><a href="#2-1货币投放机制" class="headerlink" title="2.1货币投放机制"></a>2.1货币投放机制</h2><p>货币是经济体运行的必要润滑剂，这里主要谈谈货币是如何流入市场的。<br>对于货币发行，简单的理解是：央行发行对应的货币，需要有对应的抵押物。而所谓的发行渠道，其实就是以何种作为抵押物来发行货币。这里涉及到一个概念是：央行和商业银行之间的关系，这概念有疑问自行Google吧<br>传统货币银行学认为，央行的基础货币发行渠道，主要来自于四种：<br><strong>1、在二级市场购买国债发行基础货币。</strong></p>
+<blockquote>
+<p>例如美联储，英国央行，欧洲央行，日本央行等都属于这类方式发行货币。而这样的发钞机制的源头在于本国国债,而国债就对应着税收，也就是货币对应着一国政府的信用。例如2011年，美联储29300亿美元的总资产中，持有美国政府各类债券26224亿，占总资产的比值达到89.5%。而到2017年，美国政府各类债券占着美联储总资产94.0%。这其实就是美国以政府债形式发行基础货币，美国政府的信用，就等于美元的信用，两者之间是相互绑定。</p>
+</blockquote>
+<p><strong>2、购买外汇，增加外汇储备。</strong></p>
+<blockquote>
+<p>如我国央行以人民币向各商业银行等去兑换外汇，最终央行在外汇增加的同时投放基础货币。<br><strong>3、向金融机构发放再贷款，例如中国央行的SLF,MLF,PSL等。</strong><br><strong>4、购买黄金增加黄金储备以及各国政府的特别提款权等。</strong><br>例如我国央行持有黄金而投放的基础货币。<br>中国央行基本也是按照上面方式投放基础货币，那么我国货币的锚在哪里？或者说我们国家货币发行的“抵押物 ”是什么？要回答这个问题，其实我们只要从货币当局的资产负债表中的资产端分项中寻找即可。<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5io0079oj31ys0nu7j1.jpg" alt=""></p>
+</blockquote>
+<p>我们国家人民币货币的锚是央行储备的资产，主要分两大类：</p>
+<ul>
+<li>包括外汇占款，少量的黄金</li>
+<li>持有的债权如对存款性公司债权<br>因此，在我国，货币之锚来自于黄金（少量），外汇储备，各种债权（包括对中央政府的国债，对其他存款性公司债权，对金融性公司债权等）。资产端的数量，大体上就对应了基础货币发行的数量，而看资产端的各个主要分项，也就能大致得出基础货币发行的锚）。<blockquote>
+<p> 为何我们需要从资产端去看？（因为资产等于负债，而负债端中基础货币（流通中的现金+准备金）也占了整体负债端的绝大多数，因此，</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="2-2货币投放机制的解释"><a href="#2-2货币投放机制的解释" class="headerlink" title="2.2货币投放机制的解释"></a>2.2货币投放机制的解释</h2><h3 id="2-2-1-外汇占款投放"><a href="#2-2-1-外汇占款投放" class="headerlink" title="2.2.1 外汇占款投放"></a>2.2.1 外汇占款投放</h3><p>假设居民拥有15美元相当于人民币100元的外汇，存款准备金率为15%。居民向商业银行进行结汇，商业银行向央行结汇，央行通过外汇占款向商业银行投放货币100元，商业银行缴存15元的法定存款准备金，剩下85元成为超额存款准备金，可用于贷款。央行资产负债表扩表100元，向市场投放基础货币100元。<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5ixwf6b4j31is0m07wh.jpg" alt=""><br>外汇占款规模受外汇数量和结汇意愿影响，随着我国外汇数量的下降和强制结售汇制度的改变，外汇占款绝对数量趋于稳定。近年来，随着我国贸易结构的不断改变，加上2012年后强制结售汇制度退出历史舞台，外汇占款在货币当局资产中的占比逐步下降，2017年以来基本保持在绝对数值21万亿左右，增量逐步趋0。<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5iz2iz9qj31a90u0npd.jpg" alt=""></p>
+<h3 id="2-22-对其他存款性公司债权"><a href="#2-22-对其他存款性公司债权" class="headerlink" title="2.22 对其他存款性公司债权"></a>2.22 对其他存款性公司债权</h3><p>对其他存款性公司债权包括对其他存款性公司的再贴现、再贷款、逆回购、SLF、SLO、PSL、MLF、TLF、TMLF等，2010年以前以再贷款和再贴现为主，2013年后，央行不断创新货币政策工具，其他类型的工具逐渐开始广泛应用。</p>
+<p>简单理解为：针对特定场景/抵押物，央行给到商业银行的贷款：</p>
+<blockquote>
+<p> 比如：抵押担保贷款（PSL）由央行在2014年创设，是为支持棚户区改造、保障房安居、三农和小微企业发展的主要工具。央行通过PSL调节金融机构融资成本，引导其向部分领域实体企业提供低成本的流动性，以降低特定部门的融资成本。2015-2017年国务院实施三年棚改计划，实际完成棚户区住房改造1816万套，央行合计提供抵押补充贷款 2.3万亿元，对棚改货币化提供了有力的支持。<br> <img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5j2q91fyj31040ngb29.jpg" alt=""></p>
+</blockquote>
+<h3 id="2-23-对政府债权"><a href="#2-23-对政府债权" class="headerlink" title="2.23 对政府债权"></a>2.23 对政府债权</h3><p>由于《人民银行法》规定，人民银行不得对政府透支，不得直接认购、包销国债和其他政府债权，因此，央行对政府债权全部为对中央政府债权，并非普通意义上的国债，而是历史遗留问题下发行的特别国债。历史上共出现2次大规模的特别国债发行：</p>
+<p>第一次是1998年8月，财政部向四大行发行30年期2700亿特别国债，四大国有商业银行购买后，由央行全额买入，用于补充四大国有商业银行的资本金。</p>
+<p>第二次是2007年，财政部发行1.55万亿特别国债，购买约2000亿美元外汇，作为组建中投公司的资本金。</p>
+<p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5j3tsuatj30zq0nenn9.jpg" alt=""></p>
+<h3 id="2-24-对其他金融性公司债权"><a href="#2-24-对其他金融性公司债权" class="headerlink" title="2.24 对其他金融性公司债权"></a>2.24 对其他金融性公司债权</h3><p>对其他金融性公司债权主要是中国人民银行对其他金融性公司发放的再贷款。其他金融机构指是银行业非存款类金融机构和非银行业金融机构，主要包括信托、券商、基金、金融租赁公司、汽车金融公司和贷款公司等。历史上央行共三次提供再贷款：<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5j5jrswuj30zi0jqe4b.jpg" alt=""><br>第一次是1999-2000年，受金融危机影响，金融机构不良资产问题愈发突出，为支持四大国有银行剥离不良资产，央行向四大资产管理公司（AMC）提供1.2万亿再贷款，帮助其收购四大行的不良资产。</p>
+<p>第二次是2004-2007年，央行为支持国有银行改制上市，四大资产管理公司进一步收购其不良资产，央行对四大资产管理公司提供专项8000亿再贷款。</p>
+<p>第三次是2015年股灾期间，为维持金融体系稳定，央行向证金公司提供再贷款。</p>
+<h2 id="2-3-央行扩表的阶段分析"><a href="#2-3-央行扩表的阶段分析" class="headerlink" title="2.3 央行扩表的阶段分析"></a>2.3 央行扩表的阶段分析</h2><h3 id="2-31整体规模"><a href="#2-31整体规模" class="headerlink" title="2.31整体规模"></a>2.31整体规模</h3><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5j8txv03j30z20l44qp.jpg" alt=""></p>
+<p>1）第一阶段：央行扩表 2002年1月-2015年2月<br>2002-2015年央行资产负债表整体呈现扩表趋势，期间出现小幅、短暂的周期性缩表。2002年1月央行资产规模仅4.52万亿，而2015年3月已经扩张至34.54万亿元，资产端外汇占款规模增加25.02万亿元，对其他存款性公司债权扩张1.8万亿元，以外汇占款扩张为主；负债端储备货币增加25.57万亿元，政府存款增加2.63万亿元，以储备货币变化为主。<br>2）第二阶段：央行缩表 2015年3月-12月<br>3）第三阶段：温和扩表 2016年1月-至今</p>
+<h3 id="2-32-具体体现"><a href="#2-32-具体体现" class="headerlink" title="2.32 具体体现"></a>2.32 具体体现</h3><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5ja5whamj30xy0jehdd.jpg" alt=""></p>
+<h4 id="1）2014年以前，外汇占款是央行扩表的主要方式"><a href="#1）2014年以前，外汇占款是央行扩表的主要方式" class="headerlink" title="1）2014年以前，外汇占款是央行扩表的主要方式"></a>1）2014年以前，外汇占款是央行扩表的主要方式</h4><p>2014年以前，外汇占款是央行扩表的主要渠道，目前外汇占款基本保持稳定金额。2001年中国加入WTO之后，由于“双顺差”外汇占款快速增长；2008年金融危机之后，我国国际收支趋于平衡，外汇占款增速放缓；2014年到达顶峰之后，2015年外汇占款绝对量出现趋势性下降；2016年开始逐步稳定下来，目前绝对金额在21万亿元左右波动。</p>
+<h4 id="2）2014年以后，创新货币工具成为扩表的主要渠道"><a href="#2）2014年以后，创新货币工具成为扩表的主要渠道" class="headerlink" title="2）2014年以后，创新货币工具成为扩表的主要渠道"></a>2）2014年以后，创新货币工具成为扩表的主要渠道</h4><p>2014年至今，中期借贷便利（MLF）和抵押补充贷款（PSL）成为央行扩表的主要渠道。对其他存款性公司债权由2014年1月的2.13万亿元，扩张至2019年1月的10.71万亿元，而外汇占款规模缩小5.67万亿元，MLF、SLF、PSL等创新型货币政策工具成为央行货币投放的重要方式。<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5jd3nwrjj30xs0kanns.jpg" alt=""></p>
+<h1 id="3-货币之锚"><a href="#3-货币之锚" class="headerlink" title="3.货币之锚"></a>3.货币之锚</h1><p>前面主要阐明了央行货币发行的逻辑，以及各种“抵押物”所占比例的变化。终于进入正题：</p>
+<p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5jgse11wj312g0q41kx.jpg" alt="央行资产结构变化"><br>图中两个关键点：</p>
+<p>1）1999年“对其他存款性公司债权”占总资产的比例达43.5%，之后被外汇占款替代，并快速下降至2010年的3.1%。从2011年，尤其是2014年开始，这一资产又迅速增加，到2019年上升至31.5%。</p>
+<p>2）2013年12月外汇占款达到了峰值83.29%，之后持续下降到2019年的58.7%，下降接近25个百分点。“对其他存款性公司债权”占比从2014年的6.4%，之后持续上升到2019年的31.5%，上涨了25个百分点，正好覆盖了外汇占款的降幅。</p>
+<p>这里解释抵押贷款的逻辑：微观主体通过抵押物（房子）向商业银行贷款300万，商业银行本身不生产货币。于是商业银行把房子再抵押到央行，实现了货币投放。<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5jx8ai95j31bg0iijtp.jpg" alt=""></p>
+<p>存款是商业银行的负债，贷款是商业银行的资产。</p>
+<p>我们看看商业银行的信贷构成：<br>2008年到2017年，工行、农行、中行、建行四大行累积投放信贷规模为252.76万亿，其中个人住房贷款为68.84万亿，占比27%，制造业贷款49.34万亿，占比为19%。再加上房企贷款，十年内四大行投向房地产的贷款规模总计达87.96万亿，占比34.8%。<br><strong>从变化趋势来看，2012年，个人住房贷款历史性地取代制造业贷款，成为四大行行政贷款的第一投放方向。</strong><br>可以看出，与房地产相关的信贷成为中国商业银行最主要的资产。所以，我们通常说，中国的货币是土地本位货币。<br>这主要包括两层意思：<br>第一层意思是中国商业银行的信贷，大多是以土地、房地产作为抵押资产发放的。<br>第二层意思不太容易理解。与房地产相关的信贷是中国商业银行最主要的抵押资产，而在央行的资产负债表中，对商业银行的债权成为继外汇之后最主要的储备资产。<br><strong>由以上两点推导，在央行储备资产中，间接存在大量的土地及房地产抵押资产。</strong></p>
+<p>将中国央行与美联储进行比较可以发现，美联储直接用房地产抵押债券作为储备资产发行美元。中国央行的资产也有大量的房地产资产，但在操作上拐了一个弯，使用了大量的对商业银行的债权作为资产，这部分资产主体是房地产信贷。</p>
+<h1 id="4-总结：货币、房地产、未来"><a href="#4-总结：货币、房地产、未来" class="headerlink" title="4.总结：货币、房地产、未来"></a>4.总结：货币、房地产、未来</h1><h2 id="背景："><a href="#背景：" class="headerlink" title="背景："></a>背景：</h2><p>房地产都是中美两国的货币及国家信用的基石之一（信用之锚）。简单理解：我们的货币发行，很大程度上是以房地产市场为抵押的。</p>
+<p>那么，如果房地产崩盘，就意味着央行手上所持有房地产相关的资产，都会变成坏资产。某种程度上，这将是货币体系、国家信用的崩盘。所以，政府层面，不会允许房地产崩盘发生（如果可控的话）</p>
+<h2 id="现状"><a href="#现状" class="headerlink" title="现状"></a>现状</h2><p>房子确实很贵。</p>
+<p>2017年中国居民杠杆率已经达到了49%，开始接近发达国家美国(79%)、欧元区(59%)、日本(58%)、英国(88%)的水平。<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5k7b50u0j311c0ha7wh.jpg" alt=""></p>
+<p>过去那种靠持续做大规模，靠杠杆拉升房价的打法，其实在未来的空间不大了。仔细观察过城市内的房价轮动，就会发现一个城市的房价拉升，刚开始的主升浪往往是由先知先觉的专业投资客借助信贷杠杆炒作起来。<br><strong>但是房价上去了之后要稳得住，一定是要由真的刚需客户来接盘才能被夯实。</strong><br>春节之后深圳房价的这一波增长，很明显是投资客炒上去的。而我判断很难长期维持，因为真正的刚需群体，对于现状的房价实在是无法承受。普通住宅将会回归到刚需群体可购买的价格。<br><strong>真实有效的高房价，最终一定是让刚需客户能买得起的价格。</strong></p>
+<p>看下图红线，过去十年居民杠杆率提升了2倍以上。<br><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gg5kamrsx5j30yg0iq4n8.jpg" alt=""><br>中国房产的命门就是居民杠杆率。</p>
+<p>货币总量是没有天花板的，货币增速也是可以保持很快的。在印钞机时代，很容易让大家陷入房价的货币幻觉之中。<br>但是居民杠杆率是有极限的，一般国家到达80%也就是极限了。再超过这个水准就很容易产生债务危机，而债务危机往往是房地产危机和经济危机的前兆。</p>
+<h2 id="推论"><a href="#推论" class="headerlink" title="推论"></a>推论</h2><p>无论如何，我认为房地产告诉增长的时代已经过去。</p>
+<p>未来的房地产有两个结局：<br>1，中国经济转型成功，摆脱了房地产的依赖，像美国那样依靠高新技术带动经济增长。<br>那个时候，中国的房价还会继续涨，但不会是全面上涨，也不是那种几年一倍的暴涨。因为那个时候的上涨，主要是依靠强势高薪产业导入的高收入人群，他们不断增加的购买力，把具有高新技术能力的大城市房价带动起来。就好像近年来美国湾区和纽约的房价上涨，只是局部的房价暴击。（这意味着深圳的高房价有人能接盘）</p>
+<p>2，发生了令人遗憾的事情，我们不得不再依靠房地产狠狠刺激经济一把，房价快速翻倍。中国就会像90年代日本那样，盛极一时，但很快也就由盛转衰，但结果也会像现在的日本一样惨烈。</p>
+]]></content>
+      <categories>
+        <category>经济规律</category>
+      </categories>
+      <tags>
+        <tag>经济</tag>
+        <tag>原创</tag>
       </tags>
   </entry>
   <entry>
@@ -179,14 +232,9 @@
 <p>A Thinker，Live In ShenZhen China</p>
 </blockquote>
 <ul>
-<li>宇宙分析师</li>
+<li>Keven-Yin</li>
 <li>QQ:675109486</li>
 </ul>
 ]]></content>
-  </entry>
-  <entry>
-    <title>configs/sorts</title>
-    <url>/2020/06/23/configs/sorts/</url>
-    <content><![CDATA[{"":["seek-wealth.md","about.md","hello-world.md"],"__positions":{"about.md":2,"seek-wealth.md":1,"hello-world.md":3},"__raw_positions":{"about.md":2,"seek-wealth.md":1,"hello-world.md":3}}]]></content>
   </entry>
 </search>
